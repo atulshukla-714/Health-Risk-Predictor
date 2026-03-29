@@ -1,0 +1,11 @@
+Age,BMI,Smoking,Alcohol,Exercise,BP,Sugar,Risk
+25,22,No,Low,5,120,90,Low
+45,28,Yes,High,1,150,140,High
+30,24,No,Medium,3,130,100,Medium
+50,30,Yes,High,0,160,180,High
+35,26,No,Low,4,125,95,Low
+40,27,Yes,Medium,2,140,130,Medium
+60,32,Yes,High,0,170,200,High
+28,23,No,Low,5,118,85,Low
+33,25,No,Medium,3,135,110,Medium
+55,31,Yes,High,1,165,170,High
